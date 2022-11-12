@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-12T03:19:13.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="g02AQAO22MJvd1MM3QB4" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-12T03:24:07.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.35" etag="8mh_zzvjjrqq2vq356vH" version="20.5.3" type="github">
   <diagram id="lcDmM25dpl3Givzhbb-s" name="第 1 页">
     <mxGraphModel dx="738" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,6 +76,15 @@
         </mxCell>
         <mxCell id="vwS6l9jdm9SswV-FFLDk-39" value="路由器？" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=default;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="266" y="505" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vwS6l9jdm9SswV-FFLDk-40" value="物理层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="30" y="645" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vwS6l9jdm9SswV-FFLDk-41" value="驱控层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="30" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vwS6l9jdm9SswV-FFLDk-42" value="应用层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="30" y="450" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
